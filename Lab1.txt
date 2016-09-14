@@ -1,0 +1,11 @@
+SE205
+
+Lab 1 Questions 1 - 4 page 32
+
+1) 7 records and 5 fields
+
+2) There is not a specific field for city. Add a field for city
+
+3) Add specific fields for last name, area code, city, state, and zip
+
+4) Rather than use the project managers name associate a number with the manager that links them to the project by doing this you can seperate the managers information table and the project table.  The information could be miss typed causing an anomoly.
